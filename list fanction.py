@@ -40,11 +40,11 @@ l[0] = 500
 l
 #tubel
 #cant be much edited
-t = (1,2,3,4,5,6,True)
+t = (1,2,3,4,5,6,True,)
 min(t)
 
 max(t)
 #and counting
 
 
-
+l = [1,2,3,4,5,6,True,'ahmed']

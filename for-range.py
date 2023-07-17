@@ -32,5 +32,17 @@ print(f)
 '''
 
 
-def mysum(x,y)
+def mysum(x,y):
+    return x+y
+
+print(mysum(5,10))
+
+
+mysum2 = lambda x,y:x+y
+print(mysum2(5,10))
+
+
+d = (lambda x,y:x+y)(5,10)
+
+
     

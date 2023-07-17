@@ -60,7 +60,7 @@ s.power(3,4)
 '''
 
 
-'''
+
 # inheritance : B,C,A,D
 class A:
     def do(self):
@@ -79,11 +79,11 @@ class D(C,B):
 
 j = D()
 j.do()
+
+
+
+
 '''
-
-
-
-
 s = 'ahmed'
 l = [1,2,3,4]
 t = (1,2,3,4)
@@ -92,7 +92,7 @@ len(s)
 len(l)
 len(t)
 
-'''
+
 # polymorphism
 class str:
     def len
