@@ -7,6 +7,11 @@ try:
 
     # close
 
+ '''
+    #all exceptions
+except Exception:
+     print('please enter number and number > 0')
+    '''
 
 except ValueError:
     print('please enter number and number > 0')
