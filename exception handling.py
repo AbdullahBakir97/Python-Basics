@@ -1,4 +1,5 @@
 # exception handling
+
 # if-else 
 age = input('Enter Age')
 if age.replace('.',',').isnumeric():
